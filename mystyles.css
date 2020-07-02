@@ -1,0 +1,15 @@
+h1 {
+  color: darkmagenta;
+  text-align: right;
+}
+h2 {
+  color: red;
+  text-align: left;
+}
+h3 {
+  color: #0f1f8a;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
